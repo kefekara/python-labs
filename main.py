@@ -12,4 +12,4 @@ word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yaz
 if word in meme_dict.keys():
     print(meme_dict[word])
 else:
-    print("Bilmiyom")
+    print("Bilmiyorum")
